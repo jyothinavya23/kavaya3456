@@ -4,6 +4,6 @@ public class simple java
 	{
 		System.out.println("hello java");
 		System.out.println("welcome to spt);
-		System.out.println("java world");
+		System.out.println("welcome to java world");
 	}
 }
